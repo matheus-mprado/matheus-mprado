@@ -21,8 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="yarn" width="30" height="30" />
 </p>
 
-- i'm currelntly learning React.Js and React Native, TypeScript, MongoDb, Ux, Ui and NextJs.
-- i'm looking for help with React and MongoDb.
+- Tech senior in React.Js and React Native, TypeScript, MongoDb, Ux, Ui and NextJs.
 - Ask me about Interface Design.
 
 <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-mprado&langs_count=8)](https://github.com/matheus-mprado/github-readme-statsl" />
