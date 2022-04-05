@@ -3,7 +3,7 @@
 
 ### Hello everyone, let's drink a coffee!
 
-🚀 Web Developer and Production Engineer Aspiring Designer, CTO of the LMG agency
+🚀 Systems Engineer | FullStack | Mobile & Web | UX Designer At Banco Do Brasil
 <br>
 
 ## Technologies
